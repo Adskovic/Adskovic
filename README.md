@@ -23,6 +23,11 @@ I'm a self-taught developer based in Poland, deeply passionate about conding.
 - Best way to reach me is through [LinkedIn](https://www.linkedin.com/in/adrian-piotrowski-090297238/) for a quick response.
 - Feel free to drop a message on GitHub as well.
 
+## ✨ Fun Facts
+
+- I enjoy cultivating bonsai trees.
+- I'm an avid FPS gamer.
+
 
 Excited to connect with fellow developers and tech enthusiasts! Happy coding! 🚀
  
